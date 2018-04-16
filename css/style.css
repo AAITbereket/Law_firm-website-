@@ -145,7 +145,7 @@ a {
 
 .head-tag h1 span {
     letter-spacing  : 2.5px;
-    color           : #f9844c;
+    color           : #428aec;
     font-weight     : 600;
     font-size       : 63px;
    
@@ -284,7 +284,7 @@ a {
 
 .buy-btn:hover,
 .buy-btn:focus{
-    background-color    : #e84700;
+    background-color    : #428aec;
     border              : 0;
     color               : #fff;
 }
@@ -302,7 +302,7 @@ a {
     margin-left     : -20px;
     border-left     : 20px solid transparent;
     border-right    : 20px solid transparent;
-    border-bottom   : 70px solid  #e84700;
+    border-bottom   : 70px solid  #428aec;
 }
 
 .second-title{
@@ -368,7 +368,7 @@ ul.nav.navbar-nav li a {
 .navbar-nav > li:last-child{
     border-right   : 1px solid transparent;
     padding-left   : 15px;
-    border-left    : 1px solid #e84700;
+    border-left    : 1px solid #428aec;
     line-height    : 20px;
     min-width      : 31px;
  
@@ -421,8 +421,8 @@ font-size           : 15px;
 button.btn-u {
 padding             : 6px 10px;
 color               : #fff;
-background-color    : #e84700;
-border              : 1px solid #e84711;
+background-color    : #428aec;
+border              : 1px solid #428aed;
 }
 button.btn-u:focus,
 button.btn-u:active{
@@ -575,13 +575,13 @@ a.navbar-brand {
 }
 
 .mm-list a, .mm-list a:hover{
-    color : rgb(232, 71, 0);
+    color : rgb(66,138,236);
 }
 
 .mm-menu .mm-list > li.mm-selected > a:not(.mm-subopen), 
 .mm-menu .mm-list > li.mm-selected > span{
 
-    color : rgb(232, 71, 0);
+    color : rgb(66,138,236);
 }
 
 .mm-menu .mm-list > li > a.mm-subopen:after{
@@ -615,12 +615,12 @@ section.who-we-are .col-lg-12{
 }
 section.who-we-are .col-md-3 .fa{
     font-size           : 25px;
-    color               : #e84700;
+    color               : #428aec;
     margin              : 0 auto;
     height              : 90px;
     width               : 90px;
     border-radius       : 50%;
-    border              :2px solid #e84700;
+    border              :2px solid #428aec;
     line-height         : 80px;
     cursor              : pointer;
     -webkit-transition  : all  ease-in-out 0.35s;
@@ -637,9 +637,9 @@ section.who-we-are .col-md-3 i:before{
 
 section.who-we-are .col-md-3 .fa:hover{
     
-    background-color        : #e84700;    
+    background-color        : #428aec;    
     color                   : #fff;
-    border                  : 1px solid #e84711;
+    border                  : 1px solid #428aed;
     -moz-box-shadow         : inset 0px 0px 0px 5px #ffffff;
     -o-box-shadow           : inset 0px 0px 0px 5px #ffffff;
     -ms-box-shadow          : inset 0px 0px 0px 5px #ffffff;
@@ -711,8 +711,8 @@ section.who-we-are .col-md-3 .fa:hover{
 
 .media:hover .media-left a .fa{
     color                   : #999;
-    border                  : 2px solid #e84711;
-    background-color        : #e84700;
+    border                  : 2px solid #428aed;
+    background-color        : #428aec;
 }
 
 .media:hover .media-left a,
@@ -799,7 +799,7 @@ padding-right       :20px;
 .btn-danger:hover{
     outline             : 0;
     background          :rgb(232, 71, 11) !important;
-    border              : 1px solid rgb(232, 71, 0) !important;
+    border              : 1px solid rgb(66,138,236) !important;
     -webkit-transition  : all 0.5s ease-in-out !important;
     -moz-transition     : all 0.5s ease-in-out !important;
     -o-transition       : all 0.5s ease-in-out !important;
@@ -819,7 +819,7 @@ padding-right       :20px;
     font-family         : 'Open Sans', sans-serif;
     text-transform      : uppercase;
     font-size           : 20px;
-    color               : #e84700;
+    color               : #428aec;
     background-color    : #ffffff;
     border              : 1px solid #fff;
 }
@@ -847,8 +847,8 @@ padding-right       :20px;
     
 }
 .button-set .btn-primary{
-    background-color    : #e84700;
-    border              : 1px solid #e84711;
+    background-color    : #428aec;
+    border              : 1px solid #428aed;
 }
 .button-set{
     margin-top          : 50px;
@@ -858,8 +858,8 @@ padding-right       :20px;
 }
 .contact-us{
     padding: 6px 12px;
-    background-color: #e84700;
-    border: 1px solid #e84711;
+    background-color: #428aec;
+    border: 1px solid #428aed;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     letter-spacing: 1px;
@@ -926,7 +926,7 @@ padding-right       :20px;
 #filter li a.active,
 #filter li a:hover,
 #filter li a:focus{
-    background-color    : #e84700;
+    background-color    : #428aec;
     color               : #fff;
     text-decoration     : none;
     outline             : none;
@@ -1450,7 +1450,7 @@ padding-top     : 19px;
 .contact-wrapper .costom-btn{
     width                       : 100%;
     background                  : rgba(232, 71, 0, 1);
-    border                      : 1px solid #e84700;
+    border                      : 1px solid #428aec;
     font                        : bold 16px/18px 'Open Sans', sans-serif;
     color                       : #ffffff;
     text-transform              : uppercase;
@@ -1540,7 +1540,7 @@ padding-top     : 19px;
 
 .contact-wrapper .contact-or p{
     font                : bold 25px/22px 'Roboto Condensed', sans-serif;
-    color               : #e84700;
+    color               : #428aec;
     padding             : 0;
     margin              : 0 auto;
     letter-spacing      : 1.5px;
@@ -1638,7 +1638,7 @@ footer .footer-heading{
 
 .footer-heading::first-letter {
   
-  color  : #e84700;
+  color  : #428aec;
 }
 
 .footer-content{
@@ -1723,7 +1723,7 @@ footer .footer-heading{
     text-transform  : capitalize;
 }
 .footer-bottom .col-xs-12 p a:hover{
-    color   : #e84700 !important;
+    color   : #428aec !important;
 }
 .footer-bottom{
     background-color    : #252525;
@@ -1757,7 +1757,7 @@ footer .footer-heading{
     }
 
 .backtop:hover {
-    color      : #e84700;
+    color      : #428aec;
     background : #252525;
     }
 
@@ -1804,16 +1804,16 @@ footer .footer-heading{
     margin-bottom   : 0;
     background-color: transparent;
     background-image: none;
-    border          : 1px solid #e84700 !important;
+    border          : 1px solid #428aec !important;
     border-radius   : 0;
 }
 .navbar-default .navbar-toggle .icon-bar {
-background-color    : #e84700;
+background-color    : #428aec;
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-background-color    : #e84700;
+background-color    : #428aec;
 -webkit-transition  : all ease 200ms;
 -moz-transition     : all ease 200ms;
 -o-transition       : all ease 200ms;
